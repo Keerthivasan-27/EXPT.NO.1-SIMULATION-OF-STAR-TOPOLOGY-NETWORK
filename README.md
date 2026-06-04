@@ -1,4 +1,5 @@
 # DATE
+24/04/2026
 # EXPT. NO. 1 SIMULATION OF STAR TOPOLOGY NETWORK
 
 # AIM 
@@ -22,15 +23,20 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 # IP CONNECTIVITY TABLE
 
+<img width="1300" height="682" alt="WhatsApp Image 2026-06-04 at 19 00 34" src="https://github.com/user-attachments/assets/21667355-012a-42cc-8725-d5507b4174de" />
+<img width="1600" height="969" alt="WhatsApp Image 2026-06-04 at 19 00 52" src="https://github.com/user-attachments/assets/4e73b152-445b-483a-a620-658ec32372e0" />
+
 
 
 # NETWORK DIAGRAM
+<img width="1600" height="894" alt="WhatsApp Image 2026-06-04 at 19 01 57" src="https://github.com/user-attachments/assets/08cf045a-2cd4-458b-a702-408766f342b6" />
+
 
 
 
 
 # OUTPUT
-
+<img width="1600" height="1237" alt="WhatsApp Image 2026-06-04 at 19 01 43" src="https://github.com/user-attachments/assets/982fb1bc-e34b-4674-af93-1783463d5e2b" />
 
 # RESULT
 
